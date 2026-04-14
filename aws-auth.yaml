@@ -2,7 +2,7 @@
 apiVersion: v1
 data:
   mapRoles: |
-    - rolearn: arn:aws:iam::745540666431:role/eksctl-expense-nodegroup-expense-NodeInstanceRole-lOnP6rickMHk
+    - rolearn: arn:aws:iam::7455406664555531:role/eksctl-expense-nodegroup-expense-NodeInstanceRole-lOnP6rickMHk
       groups:
       - system:bootstrappers
       - system:nodes
